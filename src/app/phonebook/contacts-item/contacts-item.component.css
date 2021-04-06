@@ -1,0 +1,24 @@
+.isCloseFriend{
+    color:blue;
+    font-size: large;
+}
+.isCloseFriend:hover{
+    color:blue;
+    font-size: large;
+    
+}
+
+.basicCSS{
+    background-color: rgb(240, 240, 240);
+    padding: 20px;
+}
+
+.edit-btn{
+     margin-left: 10px;
+    
+    float: right;
+}
+.delete-btn{
+    margin-left: 10px;
+    float: right;
+}
